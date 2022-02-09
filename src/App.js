@@ -1,11 +1,11 @@
 import './App.css'
 import Header from './components/header/Header'
-import Content from './components/content/Content';
+import Marca from "./components/marca/Marca"
 function App() {
   return (
     <div>
       <Header/>
-      <Content/>
+      <Marca />
     </div>
   );
 }

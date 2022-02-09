@@ -1,0 +1,74 @@
+.menu ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    padding-left: 35rem;
+    align-items: center;
+  
+  }
+  .btn {
+    
+    padding: 15px 15px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2) ;
+   
+  }
+  .btn-2 {
+    padding: 1rem 3rem;
+    border-radius: 4px;
+    background-color:  #0C4A34;
+  }
+  .menu{
+  background-image:url("../../Rectangle.png");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+ .menu h1{
+     position: absolute;
+     left: 5rem;
+ }
+ .easy {
+font-size: 2.5rem;
+text-align: center;
+color: #FFFFFF;
+padding-top: 3rem;
+ }
+.easy button{
+    padding: 15px;
+background-color: #0C4A34;
+color: #FFFFFF;
+border-radius: 5px;
+font-size: 1.3rem;
+}
+.the-end{
+  position: absolute;
+  right: 3rem;
+  background-color: #497557;
+  padding: 25px;
+  border-radius: 10px;
+}
+.the-end h2{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.the-end p{
+    color: #FFFFFF;
+}
+.the-end button{
+background-color: rgba(255, 255, 255, 0.2);
+padding: 1rem;
+border-radius: 5px;
+color: #FFFFFF;
+}
+.want{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 15rem;
+    gap: 1rem;
+}
+  
