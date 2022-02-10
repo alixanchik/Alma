@@ -37,7 +37,7 @@ const Header = () => {
               </button>
 
            </section>
-           <section className={`${s}.the_end`}>
+           <section className={s.want}>
              <h4>
              Want help? Talk to our                
              </h4>

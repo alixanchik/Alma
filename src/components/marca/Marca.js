@@ -9,7 +9,7 @@ import aenti from "../../img/Rectangle (1).png"
 function Marca() {
     return (
         <div>
-            <div className={`${t}.marca-menu`}>
+            <div className={t.marca_menu}>
                 <h1>
                 Find therapists at Alma in<br></br> network with:
                 </h1>
