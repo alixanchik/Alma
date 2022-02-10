@@ -1,0 +1,12 @@
+.marca-menu{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.marca-menu h1{
+font-size: 30px;
+}
+.marca-menu img{
+    width: 150px;
+}

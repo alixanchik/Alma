@@ -44,21 +44,21 @@ color: #FFFFFF;
 border-radius: 5px;
 font-size: 1.3rem;
 }
-.the-end{
+.the_end{
   position: absolute;
   right: 3rem;
   background-color: #497557;
   padding: 25px;
   border-radius: 10px;
 }
-.the-end h2{
+.the-_end h2{
     color: #FFFFFF;
     font-size: 20px;
 }
-.the-end p{
+.the_end p{
     color: #FFFFFF;
 }
-.the-end button{
+.the_end button{
 background-color: rgba(255, 255, 255, 0.2);
 padding: 1rem;
 border-radius: 5px;
